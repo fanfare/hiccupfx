@@ -1,0 +1,24 @@
+{
+  "name": "hiccupfx",
+  "version": "1.0.0",
+  "description": "make a website look like it is struggling to load",
+  "main": "hiccupfx-min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanfare/hiccupfx.git"
+  },
+  "keywords": [
+    "hiccup",
+    "bloated",
+    "broken"
+  ],
+  "author": "fanfare",
+  "license": "LicenseRef-LICENSE",
+  "bugs": {
+    "url": "https://github.com/fanfare/hiccupfx/issues"
+  },
+  "homepage": "https://github.com/fanfare/hiccupfx#readme"
+}
