@@ -1,6 +1,6 @@
 {
   "name": "hiccupfx",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "make a website look like it is struggling to load",
   "main": "hiccupfx-min.js",
   "scripts": {
